@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="apple.png">Resources/apple.png</file>
+        <file alias="bananas.png">Resources/bananas.png</file>
+        <file alias="cherries.png">Resources/cherries.png</file>
+        <file alias="coconut.png">Resources/coconut.png</file>
+        <file alias="cucumber.png">Resources/cucumber.png</file>
+        <file alias="eggplant.png">Resources/eggplant.png</file>
+        <file alias="found.png">Resources/found.png</file>
+        <file alias="grapes.png">Resources/grapes.png</file>
+        <file alias="jackfruit.png">Resources/jackfruit.png</file>
+        <file alias="kiwi.png">Resources/kiwi.png</file>
+        <file alias="lemon.png">Resources/lemon.png</file>
+        <file alias="lychee.png">Resources/lychee.png</file>
+        <file alias="mango.png">Resources/mango.png</file>
+        <file alias="mangtosteen.png">Resources/mangtosteen.png</file>
+        <file alias="orange.png">Resources/orange.png</file>
+        <file alias="pear.png">Resources/pear.png</file>
+        <file alias="pineapple.png">Resources/pineapple.png</file>
+        <file alias="question.png">Resources/question.png</file>
+        <file alias="starfruit.png">Resources/starfruit.png</file>
+        <file alias="strawberry.png">Resources/strawberry.png</file>
+        <file alias="tomato.png">Resources/tomato.png</file>
+        <file alias="watermelon.png">Resources/watermelon.png</file>
+    </qresource>
+</RCC>

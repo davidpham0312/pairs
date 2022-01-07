@@ -1,0 +1,21 @@
+*** HOW TO USE THE PROGRAM ***
+After pressing the run button, a window is shown. The user is required to enter players' names, and total number of cards. After that, press the start button. The message box will generate a message to tell the user if he/she has entered correctly all values. If not, names and/or cards amount should be changed (depending to the message). If the message "Game starts" returned, the names and cards amount is inserted correctly, and A new window will be opened. Now it's player 1's turn. Click 2 different cards, then click the "Switch player" button. If the 2 cards revealed the same picture, player 1 won 1 point, and receive another turn. The pushed buttons will be disabled. If the pictures are different, it's player 2's turn, and the pictures are flipped back. The game continues, and both players can see the game's status on the message box on the mainwindow. When all pairs are found, the game ends, and the winner is announced. At anytime of the game, the players can reset the game by pressing the "Reset" button. The user can quit the program by pressing the "Quit" button.
+
+*** GAME RULES ***
+- There must be at least 20 and at most 40 cards in the game.
+- A player can pick at most 2 cards at a time. After choosing 2 cards, choose the "Switch player" button. The players can see whose turn is it, and how many point each of them has.
+- If the player found 2 same pictures in one turn, he/she gets a point and wins another turn. If not, the turn is for the other player.
+- The name of the found pair can be viewed at the message box
+- A player cannot click one picture twice in the same turn.
+- Found pairs of pictures will not be able to be opened again.
+- A player wins the game when his/her points is higher than the other player's points.
+- This game could be a draw if 2 players have the same points.
+- If there is unwanted dispute during the game, players might restart the game by clicking the "Reset" button. All scores will be deleted, and the game begins with player 1's turn.
+- The players can quit the game if it is too boring by pressing the "Quit" button.
+
+*** FUNCTIONALITIES OF THE GAME ***
+- The message box generates error message if the user enters invalid name (empty name, duplicate name) or invalid number of cards (too small, too big, invalid format).
+- In the gameplay, in one turn, the clicked button(s) cannot be clicked again.
+- Add point to the player who found a pair in their turn.
+- The message box update players's status with points, pair's name, and whose turn it is.
+- When all pairs are found, the message box tells who wins or it is a draw (with how many points).
